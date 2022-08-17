@@ -1,0 +1,14 @@
+/*Acá se va a definir un color de background*/
+.App{
+    background: rgb(238, 69, 64);
+    height: 100vh;
+
+    background: linear-gradient(
+        180deg,
+        rgb(30, 229, 77) 0%,
+        rgb(155, 199, 44) 15%,
+        rgb(18, 211, 8) 30%,
+        rgb(30, 59, 109) 45%,
+        rgb(4, 36, 74) 100%
+    );
+}
